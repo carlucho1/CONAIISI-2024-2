@@ -1,4 +1,6 @@
 # created by virtualenv automatically
 cacic2024
 /logs/*
+
 *.ini
+desktop.ini
